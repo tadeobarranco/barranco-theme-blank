@@ -1,0 +1,9 @@
+<!--
+/**
+ * Declare the theme:   3' 09"
+ * Package theme:       4' 26"
+ */
+-->
+<theme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Config/etc/theme.xsd">
+    <title>Barranco Blank</title>
+</theme>
